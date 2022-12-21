@@ -21,3 +21,6 @@
 **Server:** Node.js, Express.js
 
 **Database:** PostgreSQL, Sequelize
+
+## Estadísticas de GitHub
+<p><img src="https://metrics.lecoq.io/Caarlos94"><p>
