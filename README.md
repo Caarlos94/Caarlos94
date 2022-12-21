@@ -18,6 +18,6 @@
 
 **Client:** HTML5, CSS3, JavaScript, React, Redux
 
-**Server:** Node, Express
+**Server:** Node.js, Express.js
 
 **Database:** PostgreSQL, Sequelize
