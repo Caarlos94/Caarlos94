@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-👋 Soy Ingeniero en Mecatrónica y Desarrollador Full Stack.
+👋 Soy ingeniero en Mecatrónica y estudiante autodidacta de Desarrollado Web enfocado en programación Full Stack.
 
 👨‍💻 Tengo experiencia trabajando con HTML5, CSS3, JavaScript, Node.js, Express, React.js, Redux, SQL, Sequelize, entre otras tecnologías del sector. 
 
