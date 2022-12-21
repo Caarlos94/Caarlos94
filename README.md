@@ -23,4 +23,4 @@
 **Database:** PostgreSQL, Sequelize
 
 ## Estadísticas de GitHub
-<p><img src="https://metrics.lecoq.io/Caarlos94"><p>
+![Metrics](https://metrics.lecoq.io/Caarlos94?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FMexico_City)
