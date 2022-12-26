@@ -17,7 +17,9 @@
 ## Tech Stack
 
 **Client:** HTML5, CSS3, JavaScript, React, Redux
+
 **Server:** Node.js, Express.js
+
 **Database:** PostgreSQL, Sequelize
 
 <h3 align="left">Languages and Tools:</h3>
