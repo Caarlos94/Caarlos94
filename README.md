@@ -37,5 +37,10 @@
 ## Estadísticas de GitHub 
 ![Github Metrics](https://metrics.lecoq.io/Caarlos94?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FMexico_City)
   
+ ## Estadisticas Extra
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Caarlos94&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caarlos94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
  ## Contador de Visitas 👀  
 <p align="center"><img src="https://profile-counter.glitch.me/{Caarlos94}/count.svg" alt="Caarlos94 :: Contador de Visitantes" /></p>
