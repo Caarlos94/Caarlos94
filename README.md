@@ -2,11 +2,14 @@
  
 ## 🚀 About Me
 
-👋 Soy ingeniero en Mecatrónica y estudiante autodidacta de Desarrollado Web enfocado en programación Full Stack.
+👋 Welcome! My name is Carlos, a mechatronics engineer and enthusiastic programmer with a solid
+training in software development and focus on creating efficient web applications.
 
-👨‍💻 Tengo experiencia trabajando con HTML5, CSS3, JavaScript, Node.js, Express, React.js, Redux, SQL, Sequelize, entre otras tecnologías del sector. 
+👨‍💻 I have experience working with a wide range of technologies in the sector, including HTML5, CSS3, JavaScript, Node.js, Express.js, React.js, Redux, PostgreSQL, Sequelize, MySQL, PHP, Git, C++, Java among others.
 
-🏆 Aspiro a conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional. Soy una persona autodidacta con competencias enfocadas en el trabajo de equipo, adaptabilidad, comunicación asertiva, me encanta aprender y superarme continuamente.
+🚀 One of my most notable achievements was my participation in the creation of an e-Commerce for sports products, it has various functionalities such as: product search and filtering, user login and authentication, purchase notifications, payment gateway, management of the inventory, all with a focus on responsive design.
+
+🏆 My vision is to continue growing professionally, acquiring new experience and knowledge that allows me to face more ambitious challenges. I consider myself a highly self-taught and committed person, with outstanding skills in teamwork, adaptability and assertive communication. I enjoy continuous learning and always seek to improve myself.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carlos-islas-portafolio.vercel.app/)
